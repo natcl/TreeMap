@@ -15,7 +15,9 @@
         "node-red-contrib-scx-ibmiotapp":"0.x",
         "node-red-contrib-ibmpush":"0.x",
         "node-red-contrib-bluemix-hdfs":"0.x",
-        "node-red-nodes-cf-sqldb-dashdb":"0.x"
+        "node-red-nodes-cf-sqldb-dashdb":"0.x",
+        "node-red-contrib-web-worldmap": "0.0.12",
+        "node-red-contrib-unsafe-function": "0.2.7" 
     },
     "engines": {
         "node": "0.12.x"
