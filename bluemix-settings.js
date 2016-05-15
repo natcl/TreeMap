@@ -28,6 +28,7 @@ var settings = module.exports = {
     mqttReconnectTime: 15000,
     serialReconnectTime: 15000,
     debugMaxLength: 1000,
+    apiMaxLength, "10mb",
 
     // Add the bluemix-specific nodes in
     nodesDir: path.join(__dirname,"nodes"),
